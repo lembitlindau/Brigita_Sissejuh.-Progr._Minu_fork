@@ -7,5 +7,7 @@ Kaubandusvõrgu jaoks loodud laosüsteem võimaldab reaalajas kontrollida toodet
 ## kasutamine
 
 Kasutaja saab toote nime järgi leida laoseisu.
+
 ## Demo
-https://github.com/BrigitaKasemets/Sissejuh.-Progr..git
+
+https://brigitakasemets.github.io/Sissejuh.-Progr./
