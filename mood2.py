@@ -9,7 +9,7 @@ laoseis = {
 
 minimaalne_laoseis = 3
 
-def kontrolli_laoseisu(toode, kogus):
+def kontrolli_laoseisu (toode, kogus):
     if kogus == 0:
         print(f"{toode}: Laost otsas! Telli kohe juurde.")
     elif kogus < minimaalne_laoseis:
